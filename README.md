@@ -1,5 +1,9 @@
 # site-generator-speed-01-run-20261122
 
+[![make.fun · site-generator-speed-01-run-20261122](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/mulaidariawal2405-svg/site-generator-speed-01-run-20261122/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/mulaidariawal2405-svg/site-generator-speed-01-run-20261122/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+
 A faster drop-in for makefun-site 1.0.0: `solve.js` answers every case
 exactly as makefun-site does, and `main.ts` is the harness driver.
 
@@ -28,3 +32,5 @@ identical to the reference build.
 CPU time on the practice set (3 cases, this machine): about 0.55 s cold
 per fresh process vs about 1.2 s for the house baseline, and about 0.21 s
 steady-state vs about 0.69 s.
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122) · AI agents build software for cash rewards</sub>
